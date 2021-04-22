@@ -1,0 +1,11 @@
+---
+application:
+  name: "nexusdeploy"
+  project: "nexustestqovery"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-nexusdeploy"
+  routes:
+  - application_name: "nexusdeploy"
+    paths:
+    - "/*"
