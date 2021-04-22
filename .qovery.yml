@@ -3,6 +3,7 @@ application:
   name: "nexusdeploy"
   project: "nexustestqovery"
   organization: "QoveryCommunity"
+  publicly_accessible: "true"
 routers:
 - name: "main-nexusdeploy"
   routes:
